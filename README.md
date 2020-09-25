@@ -1,8 +1,8 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5466335.png" width="1601" height="251" alt="Bienvenidos a mi perfil 
                    de Github " /></a>
-                   
-~~~Soy estudiante del Tecnologico de Tijuana
-
+~~~                  
+Soy estudiante del Tecnologico de Tijuana
+~~~
 <a>
   <a href="https://www.reddit.com/user/Marco-Antonio97">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
